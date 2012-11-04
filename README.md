@@ -1,4 +1,4 @@
-# Alfred Spotify Finder
+# Alfred Spotify Finder ![](https://github.com/yonbergman/alfred_spotify_finder/raw/master/icon.png)
 
 A small Alfred extension that lets you search and play a specific track. You need Powerpack to install extensions.
 
