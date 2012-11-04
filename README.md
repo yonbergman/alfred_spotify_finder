@@ -8,6 +8,7 @@ Just double click the extension file
 
 ## Download
 
+Download the extension here - [download link](https://github.com/yonbergman/alfred_spotify_finder/raw/master/Spotify%20Finder.alfredextension)
 
 ## Usage
 
