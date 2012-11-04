@@ -3,14 +3,15 @@
 A small Alfred extension that lets you search and play a specific track. You need Powerpack to install extensions.
 
 ## Installation
-    Just double click the extension file
+
+Just double click the extension file
 
 ## Download
 
 
 ## Usage
 
-   play [track name] - searches the Spotify API for that track and plays it using AppleScript
+        play [track name] - searches the Spotify API for that track and plays it using AppleScript
 
 
 ## Development
