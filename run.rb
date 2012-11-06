@@ -4,9 +4,7 @@ require 'tempfile'
 
 DEBUG = false
 def log(s)
-  if DEBUG == true
-    puts s
-  end
+  puts s if DEBUG
 end
 
 query = ARGV.shift
